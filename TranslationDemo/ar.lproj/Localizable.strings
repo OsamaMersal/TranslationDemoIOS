@@ -1,0 +1,14 @@
+//
+//  Localizable.strings
+//  TranslationDemo
+//
+//  Created by Osama Mersal on 09/07/2025.
+//
+/* Welcome screen title */
+"welcome_title" = "مرحبًا بك في عرض الترجمة!";
+
+/* App description on main screen */
+"description_text" = "سيوضح هذا التطبيق خطوات التعريب في نظام iOS خطوة بخطوة.";
+
+/* Button to tap */
+"button_tap_me" = "انقر هنا";
