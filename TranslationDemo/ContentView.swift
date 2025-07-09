@@ -3,12 +3,12 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack(spacing: 20) {
-            Text("Welcome to the Translation Demo!")
+            Text(NSLocalizedString("welcome_title", comment: "Welcome screen title"))
                 .font(.title)
                 .padding()
-            Text("This app will demonstrate iOS localization step by step.")
+            Text(NSLocalizedString("description_text", comment: "App description on main screen"))
                 .padding()
-            Button("Tap Me") {
+            Button(NSLocalizedString("button_tap_me", comment: "Button to tap")) {
                 print("Button tapped!")
             }
             .padding()
