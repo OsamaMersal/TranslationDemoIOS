@@ -5,7 +5,7 @@
 //  Created by Osama Mersal on 09/07/2025.
 //
 /* Welcome screen title */
-"welcome_title" = "مرحبًا بك في عرض الترجمة!";
+"welcome_title" = "مرحبًا بك في عرض الترجمة التوضيحي!!!";
 
 /* App description on main screen */
 "description_text" = "سيوضح هذا التطبيق خطوات التعريب في نظام iOS خطوة بخطوة.";
